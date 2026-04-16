@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/AandNotB.vhd" \
+"../../../../project_1.srcs/sources_1/new/Four_bit_comparator.vhd" \
+"../../../../project_1.srcs/sources_1/new/and2.vhd" \
+"../../../../project_1.srcs/sources_1/new/oneBitComp.vhd" \
+"../../../../project_1.srcs/sources_1/new/twoBitComp.vhd" \
+"../../../../project_1.srcs/sim_1/new/sim_comp_four_bits.vhd" \
+
+# Do not sort compile order
+nosort

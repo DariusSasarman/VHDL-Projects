@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Mar  9 21:10:39 2025
+# Process ID         : 4416
+# Current directory  : C:/Users/Dadu/Desktop/4-bit_comparator
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent7096 C:\Users\Dadu\Desktop\4-bit_comparator\project_1.xpr
+# Log file           : C:/Users/Dadu/Desktop/4-bit_comparator/vivado.log
+# Journal file       : C:/Users/Dadu/Desktop/4-bit_comparator\vivado.jou
+# Running On         : DESKTOP-S1ER2E3
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
+# CPU Frequency      : 2494 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 8261 MB
+# Swap memory        : 1275 MB
+# Total Virtual      : 9536 MB
+# Available Virtual  : 3205 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Dadu/Desktop/4-bit_comparator/project_1.xpr
+update_compile_order -fileset sources_1
